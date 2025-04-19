@@ -29,7 +29,7 @@ This project presents a Tableau dashboard analyzing sales performance data over 
 - Codecademy (Dashboard walkthrough)
 
 # Dashboard
-`[Product-Line-Performance](https://public.tableau.com/app/profile/kendrick.nguyen7175/viz/Book1_17450435740780/ProductLinePerformance?publish=yes)`
+[Product-Line-Performance](https://public.tableau.com/app/profile/kendrick.nguyen7175/viz/Book1_17450435740780/ProductLinePerformance?publish=yes)
 
 ---
 *This dashboard aims to provide actionable insights to both sales and finance teams for driving better performance and price optimization strategies.*
